@@ -120,6 +120,13 @@ footer div ul {
     background-color: rgb(255, 0, 0);
     border: 2px solid black;
 }
+.cuadro:hover{
+-webkit-transform:scale(1.05);
+-moz-transform:scale(1.05);
+-ms-transform:scale(1.05);
+-o-transform:scale(1.05);
+transform:scale(1.05);
+}
 .mosaico_1{
     width: 100%;
     min-height: 600px;
@@ -132,6 +139,13 @@ footer div ul {
     background-color: rgb(255, 0, 0);
     border: 2px solid black;
 }
+.foto:hover{
+    -webkit-transform:scale(1.05);
+    -moz-transform:scale(1.05);
+    -ms-transform:scale(1.05);
+    -o-transform:scale(1.05);
+    transform:scale(1.05);
+    }
 .contacto{
         background-color:rgba(1, 102, 35, 0.363);
         border: 10px solid black;
