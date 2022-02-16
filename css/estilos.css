@@ -226,42 +226,42 @@ footer div ul {
     .cuadro1{
         grid-column: 1/2;
         grid-row: 1/2;
-        background-image: url(/multimedia/casaEnfrente/1.jpg);
+        background-image: url(../multimedia/casaEnfrente/1.jpg);
         background-size:cover;
         background-position: center;
     }
     .cuadro2{
         grid-column: 1/2;
         grid-row: 2/3;
-        background-image: url(/multimedia/limoneros/1.jpg);
+        background-image: url(../multimedia/limoneros/1.jpg);
         background-size: cover;
         background-position: center;
     }
     .cuadro3{
         grid-column: 1/2;
         grid-row: 3/4;
-        background-image: url(/multimedia/teques/1.jpg);
+        background-image: url(../multimedia/teques/1.jpg);
         background-size: cover;
         background-position: center;
     }
     .cuadro4{
         grid-column: 1/2;
         grid-row: 4/5;
-        background-image: url(/multimedia/acapatzingoVigilancia/1.jpg);
+        background-image: url(../multimedia/acapatzingoVigilancia/1.jpg);
         background-size: cover;
         background-position: center;
     }
     .cuadro5{
         grid-column: 1/2;
         grid-row: 5/6;
-        background-image: url(/multimedia/arquitecto/1.jpg);
+        background-image: url(../multimedia/arquitecto/1.jpg);
         background-size: cover;
         background-position: center;
     }
     .cuadro6{
         grid-column: 1/2;
         grid-row: 6/7;
-        background-image: url(/multimedia/renta/fracc/1.jpg);
+        background-image: url(../multimedia/renta/fracc/1.jpg);
         background-size: cover;
         background-position: center;
     }
@@ -271,47 +271,47 @@ footer div ul {
         
     }
     .casa1_1{
-        background-image:url(/multimedia/casaEnfrente/1.jpg);
+        background-image:url(../multimedia/casaEnfrente/1.jpg);
         background-size: cover;
         background-position: center;
     }
     .casa1_2{
-        background-image:url(/multimedia/casaEnfrente/2.jpg);
+        background-image:url(../multimedia/casaEnfrente/2.jpg);
         background-size: cover;
         background-position: center;
     }
     .casa1_3{
-        background-image:url(/multimedia/casaEnfrente/3.jpg);
+        background-image:url(../multimedia/casaEnfrente/3.jpg);
         background-size: cover;
         background-position: center;
     }
     .casa1_4{
-        background-image:url(/multimedia/casaEnfrente/5.jpg);
+        background-image:url(../multimedia/casaEnfrente/5.jpg);
         background-size: cover;
         background-position: center;
     }
     .casa2_1{
-        background-image:url(/multimedia/casaRojaOficinas/1.jpg);
+        background-image:url(../multimedia/casaRojaOficinas/1.jpg);
         background-size: cover;
         background-position: center;
     }
     .casa2_2{
-        background-image:url(/multimedia/casaRojaOficinas/2.jpg);
+        background-image:url(../multimedia/casaRojaOficinas/2.jpg);
         background-size: cover;
         background-position: center;
     }
     .casa2_3{
-        background-image:url(/multimedia/casaRojaOficinas/3.jpg);
+        background-image:url(../multimedia/casaRojaOficinas/3.jpg);
         background-size: cover;
         background-position: center;
     }
     .casa2_4{
-        background-image:url(/multimedia/casaRojaOficinas/4.jpg);
+        background-image:url(../multimedia/casaRojaOficinas/4.jpg);
         background-size: cover;
         background-position: center;
     }
     .casa3_1{
-        background-image:url(/multimedia/arquitecto/1.jpg);
+        background-image:url(../multimedia/arquitecto/1.jpg);
         background-size: cover;
         background-position: center;
     }
@@ -321,147 +321,147 @@ footer div ul {
         background-position: center;
     }
     .casa3_3{
-        background-image:url(/multimedia/arquitecto/3.jpg);
+        background-image:url(../multimedia/arquitecto/3.jpg);
         background-size: cover;
         background-position: center;
     }
     .casa3_4{
-        background-image:url(/multimedia/arquitecto/4.jpg);
+        background-image:url(../multimedia/arquitecto/4.jpg);
         background-size: cover;
         background-position: center;
     }
     .casa4_1{
-        background-image:url(/multimedia/acapatzingoVigilancia/1.jpg);
+        background-image:url(../multimedia/acapatzingoVigilancia/1.jpg);
         background-size: cover;
         background-position: center;
     }
     .casa4_2{
-        background-image:url(/multimedia/acapatzingoVigilancia/2.jpg);
+        background-image:url(../multimedia/acapatzingoVigilancia/2.jpg);
         background-size: cover;
         background-position: center;
     }
     .casa4_3{
-        background-image:url(/multimedia/acapatzingoVigilancia/3.jpg);
+        background-image:url(../multimedia/acapatzingoVigilancia/3.jpg);
         background-size: cover;
         background-position: center;
     }
     .casa4_4{
-        background-image:url(/multimedia/acapatzingoVigilancia/4.jpg);
+        background-image:url(../multimedia/acapatzingoVigilancia/4.jpg);
         background-size: cover;
         background-position: center;
     }
     .casa5_1{
-        background-image:url(/multimedia/limoneros/1.jpg);
+        background-image:url(../multimedia/limoneros/1.jpg);
         background-size: cover;
         background-position: center;
     }
     .casa5_2{
-        background-image:url(/multimedia/limoneros/2.jpg);
+        background-image:url(../multimedia/limoneros/2.jpg);
         background-size: cover;
         background-position: center;
     }
     .casa5_3{
-        background-image:url(/multimedia/limoneros/3.jpg);
+        background-image:url(../multimedia/limoneros/3.jpg);
         background-size: cover;
         background-position: center;
     }
     .casa5_4{
-        background-image:url(/multimedia/limoneros/4.jpg);
+        background-image:url(../multimedia/limoneros/4.jpg);
         background-size: cover;
         background-position: center;
     }
     .casa6_1{
-        background-image:url(/multimedia/casaEnfrente/5.jpg);
+        background-image:url(../multimedia/casaEnfrente/5.jpg);
         background-size: cover;
         background-position: center;
     }
     .casa6_2{
-        background-image:url(/multimedia/casaEnfrente/6.jpg);
+        background-image:url(../multimedia/casaEnfrente/6.jpg);
         background-size: cover;
         background-position: center;
     }
     .casa6_3{
-        background-image:url(/multimedia/casaEnfrente/7.jpg);
+        background-image:url(../multimedia/casaEnfrente/7.jpg);
         background-size: cover;
         background-position: center;
     }
     .casa6_4{
-        background-image:url(/multimedia/casaEnfrente/8.jpg);
+        background-image:url(../multimedia/casaEnfrente/8.jpg);
         background-size: cover;
         background-position: center;
     }
     .casa7_1{
-        background-image:url(/multimedia/teques/1.jpg);
+        background-image:url(../multimedia/teques/1.jpg);
         background-size: cover;
         background-position: center;
     }
     .casa7_2{
-        background-image:url(/multimedia/teques/2.jpg);
+        background-image:url(../multimedia/teques/2.jpg);
         background-size: cover;
         background-position: center;
     }
     .casa7_3{
-        background-image:url(/multimedia/teques/3.jpg);
+        background-image:url(../multimedia/teques/3.jpg);
         background-size: cover;
         background-position: center;
     }
     .casa7_4{
-        background-image:url(/multimedia/teques/4.jpg);
+        background-image:url(../multimedia/teques/4.jpg);
         background-size: cover;
         background-position: center;
     }
     .casa8_1{
-        background-image:url(/multimedia/ranchoCortes/1.jpg);
+        background-image:url(../multimedia/ranchoCortes/1.jpg);
         background-size: cover;
         background-position: center;
     }
     .casa8_2{
-        background-image:url(/multimedia/ranchoCortes/2.jpg);
+        background-image:url(../multimedia/ranchoCortes/2.jpg);
         background-size: cover;
         background-position: center;
     }
     .casa8_3{
-        background-image:url(/multimedia/ranchoCortes/3.jpg);
+        background-image:url(../multimedia/ranchoCortes/3.jpg);
         background-size: cover;
         background-position: center;
     }
     .casa8_4{
-        background-image:url(/multimedia/ranchoCortes/4.jpg);
+        background-image:url(../multimedia/ranchoCortes/4.jpg);
         background-size: cover;
         background-position: center;
     }
     .casa9_1{
-        background-image:url(/multimedia/sumiya/1.jpg);
+        background-image:url(../multimedia/sumiya/1.jpg);
         background-size: cover;
         background-position: center;
     }
     .casa9_2{
-        background-image:url(/multimedia/sumiya/2.jpg);
+        background-image:url(../multimedia/sumiya/2.jpg);
         background-size: cover;
         background-position: center;
     }
     .casa9_3{
-        background-image:url(/multimedia/sumiya/3.jpg);
+        background-image:url(../multimedia/sumiya/3.jpg);
         background-size: cover;
         background-position: center;
     }
     .casa9_4{
-        background-image:url(/multimedia/sumiya/4.jpg);
+        background-image:url(../multimedia/sumiya/4.jpg);
         background-size: cover;
         background-position: center;
     }
     .casa10_1{
-        background-image:url(/multimedia/renta/fracc/1.jpg);
+        background-image:url(../multimedia/renta/fracc/1.jpg);
         background-size: cover;
         background-position: center;
     }
     .casa10_2{
-        background-image:url(/multimedia/renta/fracc/2.jpg);
+        background-image:url(../multimedia/renta/fracc/2.jpg);
         background-size: cover;
         background-position: center;
     }
     .casa10_3{
-        background-image:url(/multimedia/renta/fracc/3.jpg);
+        background-image:url(../multimedia/renta/fracc/3.jpg);
         background-size: cover;
         background-position: center;
     }
