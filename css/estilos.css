@@ -1562,7 +1562,7 @@ footer div ul {
     .cuadro4{
         grid-column: 2/3;
         grid-row: 2/3;
-        background-image: url(multimedia/acapatzingoVigilancia/1.jpg);
+        background-image: url(../multimedia/acapatzingoVigilancia/1.jpg);
         background-size: cover;
         background-position: center;
     }
