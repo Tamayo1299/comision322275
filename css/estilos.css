@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 .header {
-    background-image: url(/multimedia/limoneros/7.jpg);
+    background-image: url(../multimedia/limoneros/7.jpg);
     display: flex;
     justify-content: space-between;
     align-items: center;
